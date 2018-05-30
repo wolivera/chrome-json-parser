@@ -4,7 +4,7 @@ This is a Chrome Extension tool to easily format and validate JSON text. The edi
 
 ## Download
 
-Get this extension for your Chrome browser [here]()
+Get this extension for your Chrome browser [here](https://chrome.google.com/webstore/detail/instant-json-editor/gdoboaloalmkjmjlglhlmefilhnpmmnl)
 
 ## Features
 
