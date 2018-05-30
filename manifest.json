@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Instant JSON Editor",
   "description": "Format, validate and edit JSON instantly",
-  "version": "1.0",
+  "version": "1.0.1",
   "icons": {
     "48": "icon.png"
   },
