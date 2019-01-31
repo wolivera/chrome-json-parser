@@ -18,4 +18,4 @@ Get this extension for your Chrome browser [here](https://chrome.google.com/webs
 
 ## Experience
 
-If you're interested in extending this tool or have your own idea, check out this [Medium]() post about how I made and published this extension.
+If you're interested in extending this tool or have your own idea, check out this [Medium](https://medium.com/@liamsolivera/develop-and-publish-a-chrome-extension-fd8948b88587) post about how I made and published this extension.
